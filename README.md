@@ -1,4 +1,4 @@
-# Weather Prediction Using Random Forest
+# Weather Data Analyis Using Random Forest
 
 ## Overview
 This project utilizes a Random Forest Regressor to predict rainfall based on historical weather data. The dataset is preprocessed to handle missing values, encode categorical variables, and generate useful features. A machine learning model is then trained and evaluated to make accurate predictions.
